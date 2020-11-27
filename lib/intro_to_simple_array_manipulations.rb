@@ -23,3 +23,4 @@ def using_flatten(instruments)
   instruments.flatten!
   p instruments
 end
+
