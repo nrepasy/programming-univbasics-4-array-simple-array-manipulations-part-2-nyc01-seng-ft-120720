@@ -29,5 +29,6 @@ def using_delete(instructors , no_offense_Steven)
   instructors.delete("Steven")
 end
 
-
+ famous_robots = ["Johnny 5", "R2D2", "Robocop"]
+ 
   
