@@ -18,6 +18,4 @@ def using_uniq(haircuts)
   p haircuts
 end
 
-
-
-  
+instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
