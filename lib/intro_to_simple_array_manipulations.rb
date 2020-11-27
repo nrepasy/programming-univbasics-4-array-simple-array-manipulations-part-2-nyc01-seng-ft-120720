@@ -30,5 +30,6 @@ def using_delete(instructors , no_offense_Steven)
 end
 
  famous_robots = ["Johnny 5", "R2D2", "Robocop"]
- def using_delete_at()
+ def using_delete_at(famous_robots , deleted_robot)
+   famous_robots.
   
