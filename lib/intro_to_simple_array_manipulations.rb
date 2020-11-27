@@ -12,6 +12,6 @@ def using_insert(list_of_programming_languages , another_language)
   p list_of_programming_languages
 end
 
-
+ haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
 def using_uniq
   
