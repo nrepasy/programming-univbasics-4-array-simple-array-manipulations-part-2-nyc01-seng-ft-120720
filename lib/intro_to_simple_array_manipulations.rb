@@ -13,7 +13,7 @@ def using_insert(list_of_programming_languages , another_language)
 end
 
  haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
-def using_uniq
+def using_uniq(haircuts)
   haircuts.uniq!
   p haircuts
 end
