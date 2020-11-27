@@ -17,4 +17,7 @@ def using_uniq(haircuts)
   haircuts.uniq!
   p haircuts
 end
+
+
+
   
