@@ -24,9 +24,8 @@ def using_flatten(instruments)
   p instruments
 end
 
-def using_delete(instructors)
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+def using_delete(instructors)
   instructors.delete("Steven")
-  instructors
 end
   
